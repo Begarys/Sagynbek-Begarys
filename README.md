@@ -1,0 +1,2 @@
+# Sagynbek-Begarys
+CV lab
