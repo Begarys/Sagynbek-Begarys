@@ -1,0 +1,31 @@
+}
+
+*{
+    padding: 10px 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.bir{
+    display: flex;
+}
+.form{
+    position: relative;
+    width: 300px;
+    margin:0 auto;
+    left: 30px;
+}
+.search_holder {
+    width: 300px;
+    height: 40px;
+    padding-left: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    outline: none;
+    color: #9E9C9C;
+    position: absolute;
+    z-index: 3;
+    right: 105px;
+    top: 5px;
+}
